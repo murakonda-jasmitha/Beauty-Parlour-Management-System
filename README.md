@@ -1,60 +1,77 @@
-# Beauty Parlour Management System
+# 💇‍♀️ Beauty Parlour Management System
 
-## Project Overview
-The Beauty Parlour Management System is a desktop-based application developed using **Python** and **MySQL** to automate the daily operations of a beauty parlour. It provides an efficient and user-friendly solution for managing customers, employees, beauty services, appointments, billing, and reports.
+## 📌 Project Overview
 
-The system replaces manual record-keeping with a computerized database, improving accuracy, reducing paperwork, and saving time. It offers a menu-driven interface that allows administrators to perform all operations efficiently.
+The Beauty Parlour Management System is a desktop-based application developed using **Python** and **MySQL** to automate the daily operations of a beauty parlour. The system provides an efficient and user-friendly solution for managing customers, employees, beauty services, appointments, billing, and business reports.
+
+This application eliminates manual record-keeping by maintaining all information in a MySQL database, ensuring data accuracy, reducing paperwork, and improving overall operational efficiency. The project follows a menu-driven approach with proper input validation, exception handling, and database connectivity to provide a smooth user experience.
 
 ---
 
-## Features
+## 🎯 Objectives
 
-- Secure Admin Login
-- Customer Management
+- Automate beauty parlour operations.
+- Manage customer and employee records efficiently.
+- Schedule and manage appointments.
+- Generate bills accurately.
+- Maintain business reports.
+- Reduce manual paperwork and improve data management.
+
+---
+
+## ✨ Features
+
+- 🔐 Secure Admin Login
+- 👤 Customer Management
   - Add Customer
   - View Customers
   - Search Customer
   - Update Customer
   - Delete Customer
-- Employee Management
-- Service Management
-- Appointment Booking
-- Bill Generation
-- Reports Dashboard
-- MySQL Database Integration
-- Input Validation
-- Exception Handling
+- 👩‍💼 Employee Management
+  - Add Employee
+  - View Employees
+  - Search Employee
+  - Update Employee
+  - Delete Employee
+- 💄 Service Management
+  - Add Service
+  - View Services
+  - Search Service
+  - Update Service
+  - Delete Service
+- 📅 Appointment Management
+  - Book Appointment
+  - View Appointments
+  - Update Appointment
+  - Cancel Appointment
+  - Complete Appointment
+- 💳 Billing Management
+  - Generate Bill
+- 📊 Reports
+  - Today's Income
+  - Monthly Income
+  - Most Popular Services
+  - Total Customers
+  - Total Employees
 
 ---
 
-## Technologies Used
+## 🛠 Technologies Used
 
 - Python
 - MySQL
-- MySQL Connector for Python
+- mysql-connector-python
 - Jupyter Notebook
 
 ---
 
-## Database Tables
-
-- Admin
-- Customers
-- Employees
-- Services
-- Appointments
-- Bills
-- Payments
-
----
-
-## Project Structure
+## 📂 Project Structure
 
 ```text
 Beauty-Parlour-Management-System/
 │
-├── Beauty_Parlour_Management_System.ipynb
-├── beauty_parlour.sql
+├── Beauty Parlour Management System using Python & MySQL.ipynb
 ├── README.md
 ├── requirements.txt
 ├── LICENSE
@@ -62,56 +79,197 @@ Beauty-Parlour-Management-System/
 └── screenshots/
 ```
 
-## Installation
+---
 
-1. Clone the repository.
-2. Install the required package.
+## 📦 Requirements
+
+Install the required dependency before running the project.
 
 ```bash
-pip install mysql-connector-python
+pip install -r requirements.txt
 ```
 
-3. Import the `beauty_parlour.sql` file into MySQL.
+The `requirements.txt` file contains:
+
+```text
+mysql-connector-python
+```
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository.
+
+```bash
+git clone https://github.com/your-username/Beauty-Parlour-Management-System.git
+```
+
+2. Navigate to the project folder.
+
+```bash
+cd Beauty-Parlour-Management-System
+```
+
+3. Install the required package.
+
+```bash
+pip install -r requirements.txt
+```
+
 4. Open the Jupyter Notebook.
+
 5. Run all cells.
-6. Log in as the administrator.
-7. Start managing the beauty parlour.
+
+6. Create the required MySQL database and tables.
+
+7. Log in as the administrator and start using the application.
 
 ---
 
-## Modules
+## 📸 Project Screenshots
 
-- Admin Login
-- Customer Management
-- Employee Management
-- Service Management
-- Appointment Management
-- Billing Management
-- Reports
+### 🔐 Admin Login
+
+![Admin Login](screenshots/admin_login.png)
 
 ---
 
-## Future Enhancements
+### 👤 Customer Management
+
+![Customer Management](screenshots/customer_management.png)
+
+---
+
+### ➕ Add Customer
+
+![Add Customer](screenshots/add_customer.png)
+
+---
+
+### 👀 View Customer
+
+![View Customer](screenshots/view_customer.png)
+
+---
+
+### 🔍 Search Customer
+
+![Search Customer](screenshots/search_customer.png)
+
+---
+
+### ✏️ Update Customer
+
+![Update Customer](screenshots/update_customer.png)
+
+---
+
+### 👩‍💼 Employee Management
+
+![Employee Management](screenshots/employee_management.png)
+
+---
+
+### ➕ Add Employee
+
+![Add Employee](screenshots/add_employee.png)
+
+---
+
+### 👀 View Employee
+
+![View Employee](screenshots/view_employee.png)
+
+---
+
+### 💄 Service Management
+
+![Service Management](screenshots/service_management.png)
+
+---
+
+### ➕ Add Service
+
+![Add Service](screenshots/add_service.png)
+
+---
+
+### 📅 Appointment Management
+
+![Appointment Management](screenshots/appointment_management.png)
+
+---
+
+### 👀 View Appointment
+
+![View Appointment](screenshots/view_appointment.png)
+
+---
+
+### ✏️ Update Appointment
+
+![Update Appointment](screenshots/update_appointment.png)
+
+---
+
+### ❌ Cancel Appointment
+
+![Cancel Appointment](screenshots/cancel_appointment.png)
+
+---
+
+### ✅ Complete Appointment
+
+![Complete Appointment](screenshots/complete_appointment.png)
+
+---
+
+### 💳 Generate Bill
+
+![Generate Bill](screenshots/generate_bill.png)
+
+---
+
+### 📊 Reports
+
+![Reports](screenshots/report_menu.png)
+
+---
+
+### 💰 Today's Income
+
+![Today's Income](screenshots/todays_income.png)
+
+---
+
+### ⭐ Most Popular Services
+
+![Most Popular Services](screenshots/mostpopular_services.png)
+
+---
+
+## 🔮 Future Enhancements
 
 - Online Appointment Booking
 - SMS/Email Notifications
 - Inventory Management
 - Customer Feedback System
-- Dashboard with Charts
-- Role-based Login
+- Dashboard with Graphical Reports
+- Role-Based Authentication
 
 ---
 
-## Author
+## 👩‍💻 Author
 
 **Murakonda Jasmitha**
 
 MCA Graduate
 
-Python | MySQL 
+Python | MySQL | SQL
 
 ---
 
-## License
+## 📄 License
 
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
