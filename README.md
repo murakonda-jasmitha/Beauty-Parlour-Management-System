@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="beauty_parlour_management_system.png" alt="Beauty Parlour Management System" width="100%">
+</p>
+
+# 💇‍♀️ Beauty Parlour Management System
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter)
+![License](https://img.shields.io/badge/License-MIT-green)
 # 💇‍♀️ Beauty Parlour Management System
 
 ## 📌 Project Overview
