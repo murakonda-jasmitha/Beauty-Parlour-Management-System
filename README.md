@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="beauty_parlour_management_system.png" alt="Beauty Parlour Management System" width="100%">
+  <img src="beauty_parlour_managemnet_system_banner.png" alt="Beauty Parlour Management System Banner" width="100%">
 </p>
 
 # 💇‍♀️ Beauty Parlour Management System
