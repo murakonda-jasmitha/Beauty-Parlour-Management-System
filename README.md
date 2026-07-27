@@ -126,128 +126,115 @@ pip install -r requirements.txt
 7. Log in as the administrator and start using the application.
 
 ---
-
 ## 📸 Project Screenshots
 
 ### 🔐 Admin Login
-
-![Admin Login](screenshots/admin_login.png)
+![Admin Login](admin_login.png)
 
 ---
 
 ### 👤 Customer Management
-
-![Customer Management](screenshots/customer_management.png)
+![Customer Management](customer_management.png)
 
 ---
 
 ### ➕ Add Customer
-
-![Add Customer](screenshots/add_customer.png)
+![Add Customer](add_customer.png)
 
 ---
 
 ### 👀 View Customer
-
-![View Customer](screenshots/view_customer.png)
+![View Customer](view_customer.png)
 
 ---
 
 ### 🔍 Search Customer
-
-![Search Customer](screenshots/search_customer.png)
+![Search Customer](search_customer.png)
 
 ---
 
 ### ✏️ Update Customer
-
-![Update Customer](screenshots/update_customer.png)
+![Update Customer](update_customer.png)
 
 ---
 
 ### 👩‍💼 Employee Management
-
-![Employee Management](screenshots/employee_management.png)
+![Employee Management](employee_management.png)
 
 ---
 
 ### ➕ Add Employee
-
-![Add Employee](screenshots/add_employee.png)
+![Add Employee](add_employee.png)
 
 ---
 
 ### 👀 View Employee
-
-![View Employee](screenshots/view_employee.png)
+![View Employee](view_employee.png)
 
 ---
 
 ### 💄 Service Management
-
-![Service Management](screenshots/service_management.png)
+![Service Management](service_management.png)
 
 ---
 
 ### ➕ Add Service
-
-![Add Service](screenshots/add_service.png)
+![Add Service](add_service.png)
 
 ---
 
 ### 📅 Appointment Management
+![Appointment Management](appointment_management.png)
 
-![Appointment Management](screenshots/appointment_management.png)
+---
+
+### ➕ Add Appointment
+![Add Appointment](add_appointment.png)
 
 ---
 
 ### 👀 View Appointment
-
-![View Appointment](screenshots/view_appointment.png)
+![View Appointment](view_appointment.png)
 
 ---
 
 ### ✏️ Update Appointment
-
-![Update Appointment](screenshots/update_appointment.png)
+![Update Appointment](update_appointment.png)
 
 ---
 
 ### ❌ Cancel Appointment
-
-![Cancel Appointment](screenshots/cancel_appointment.png)
+![Cancel Appointment](cancel_appointment.png)
 
 ---
 
 ### ✅ Complete Appointment
-
-![Complete Appointment](screenshots/complete_appointment.png)
+![Complete Appointment](complete_appointment.png)
 
 ---
 
 ### 💳 Generate Bill
-
-![Generate Bill](screenshots/generate_bill.png)
+![Generate Bill](generate_bill.png)
 
 ---
 
 ### 📊 Reports
-
-![Reports](screenshots/report_menu.png)
+![Reports](report_menu.png)
 
 ---
 
 ### 💰 Today's Income
-
-![Today's Income](screenshots/todays_income.png)
+![Today's Income](todays_income.png)
 
 ---
 
 ### ⭐ Most Popular Services
-
-![Most Popular Services](screenshots/mostpopular_services.png)
+![Most Popular Services](mostpopular_services.png)
 
 ---
+
+### 🚪 Exit
+![Exit](exit.png)
 
 ## 🔮 Future Enhancements
 
