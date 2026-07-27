@@ -1,0 +1,6 @@
+## Requirements
+
+This project is developed using Python and MySQL. To establish a connection between the Python application and the MySQL database, the `mysql-connector-python` package is required. Before running the project, install the required dependency using the following command:
+
+```bash
+pip install -r requirements.txt
