@@ -1,0 +1,24 @@
+Beauty-Parlour-Management-System
+│
+└── screenshots
+      │
+      ├── admin_login.png
+      ├── customer_management.png
+      ├── add_customer.png
+      ├── view_customer.png
+      ├── search_customer.png
+      ├── update_customer.png
+      ├── employee_management.png
+      ├── add_employee.png
+      ├── view_employee.png
+      ├── service_management.png
+      ├── add_service.png
+      ├── appointment_management.png
+      ├── view_appointment.png
+      ├── update_appointment.png
+      ├── cancel_appointment.png
+      ├── complete_appointment.png
+      ├── generate_bill.png
+      ├── report_menu.png
+      ├── todays_income.png
+      └── mostpopular_services.png
